@@ -1,1 +1,3 @@
-# solution_for_florinpop17_app_ideas
+# Solutions for [florinpop17 app ideas](https://github.com/florinpop17/app-ideas)
+
+Each solution is in their own branches.
